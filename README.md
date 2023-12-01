@@ -1,4 +1,4 @@
-# HittingObjectsProblem
+# Hitting-Objects-Problem
 
 ## Overview
 The Point Covering Algorithm, implemented in Python, addresses the set covering problem, aiming to find the minimum number of straight lines required to cover a given set of 2D points in the plane.The algorithm leverages Python libraries such as: 
